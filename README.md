@@ -1,5 +1,7 @@
 # PHP Discord
 
+AJAX JavaScript front-end interacts with PHP/MySQL back-end.
+
 Functioning features:
 * Servers
 * Channels
